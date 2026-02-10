@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/tychocarts.pw.toml"
-hash = "638d4ed731696c7a83e913201e8e00afb7e5df3d763f6f3e483c9c05dac3c4c1"
+hash = "9f74b73c2d16c07450598f47807492895a260471f2426f8a85b815f2027d2e22"
 metafile = true
 
 [[files]]
