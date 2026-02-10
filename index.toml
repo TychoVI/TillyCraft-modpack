@@ -114,3 +114,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
+
+[[files]]
+file = "mods/flying-licenses.pw.toml"
+hash = "e453dde74e0ccf43217d2b2aa500263c42304df668824902fd88b9fca32f67f3"
+metafile = true
