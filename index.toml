@@ -35,6 +35,11 @@ hash = "76637f8c1d2bd728b2ce7f49be609a644ebdda95f553201768af5e35d074f376"
 metafile = true
 
 [[files]]
+file = "mods/creeperconfetti+.pw.toml"
+hash = "95aba81d9ef05b163e220850e4058ec0f30349e58f042bb05e53dd269cae93cb"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "8cd6621306bcd68816180ce08900192d2af6351a282388083ab5a5585229c6eb"
 metafile = true
