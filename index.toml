@@ -121,8 +121,9 @@ hash = "fcbfa39f9ced74807efe4ce8d200b6dcfc5f4258fcb69d1c67447b55c47d084a"
 metafile = true
 
 [[files]]
-file = "mods/tychocarts.toml"
+file = "mods/tychocarts.pw.toml"
 hash = "638d4ed731696c7a83e913201e8e00afb7e5df3d763f6f3e483c9c05dac3c4c1"
+metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"

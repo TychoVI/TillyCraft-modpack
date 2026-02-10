@@ -1,12 +1,12 @@
 name = "TillyCraft Modpack"
 author = "TychoVI"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c90569b20f8e5100db757eaec7ff2a89e883a0d81347e037da9d0c2835d27e05"
+hash = "795cef176a85781740af8013a1bfd3f21858c6818279666c998afb45bc962250"
 
 [versions]
 fabric = "0.18.4"
