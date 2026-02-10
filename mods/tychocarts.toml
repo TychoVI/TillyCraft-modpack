@@ -1,0 +1,9 @@
+name = "Tycho Carts"
+filename = "tychocarts-0.1.jar"
+side = "both"
+
+[download]
+url = "https://assets.tycho.dev/mods/FlyingLicenses/tychocarts-0.1.jar"
+
+hash-format = "sha256"
+hash = "7ab08516e3bd845ee3b8a43ffefff0f99bd0993f65023e77336aa75b9e1afd72"
