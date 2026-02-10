@@ -1,0 +1,9 @@
+name = "Flying-licenses"
+filename = "flying_licenses-0.1.jar"
+side = "both"
+
+[download]
+url = "https://assets.tycho.dev/mods/FlyingLicenses/flying_licenses-0.1.jar"
+
+hash-format = "sha256"
+hash = "7fac40b3307ac825055fa7be996ac76b8e97624abe7120181b73fa8236d4fc01"
