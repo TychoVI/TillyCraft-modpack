@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "288f63e7f858f05bb5455ffad3d8995235d58b14e790a7036f240ecf2ef07623"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
