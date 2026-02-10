@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".index.toml.kate-swp"
-hash = "89474c7caa88cece05cb90c8b6ea54fe0852a2e84d0e347bb3d04e5def500552"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
@@ -51,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-licenses.pw.toml"
-hash = "2d6c84837a29b7b05a5aaaeb706e42f86247ef5e345718e68045b2bf177e5543"
+hash = "ece5124d635318bef7003fe4ed2f48335a06a4af8d6573c2bfc37e5a16d65d73"
 metafile = true
 
 [[files]]
