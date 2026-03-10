@@ -45,8 +45,23 @@ hash = "8cd6621306bcd68816180ce08900192d2af6351a282388083ab5a5585229c6eb"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7a304e1dd8fdc4ab7fb695e661547ceb951b1aa4a20ae397852c64a3d9408683"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d2551922e217952f0bcc574427916b2c3f8e27b145532a2469f407285004b596"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "b5c07339bc334ddfe27120580cca09d71541a2f8230251a85284807ff0688a4c"
 metafile = true
 
 [[files]]
@@ -142,4 +157,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
+metafile = true
+
+[[files]]
+file = "resourcepacks/appa-ghasts.pw.toml"
+hash = "eee5799ff6829974afd570d11382c1b65900ba045592cf5f92db99e01a6a8a00"
 metafile = true

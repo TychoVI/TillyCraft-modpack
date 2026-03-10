@@ -1,0 +1,13 @@
+name = "Appa Ghasts"
+filename = "Appa Ghasts 1.2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/olobHVzX/versions/gk2UMrF1/Appa%20Ghasts%201.2.2.zip"
+hash-format = "sha512"
+hash = "096ee7398a7533cb674f1fc00597eaae028f6ea8703eefeb10320d2752a7b6f185a15b3d76a9606f549182c5086bc5c4007cab7cdd818811d0fd294e785653f4"
+
+[update]
+[update.modrinth]
+mod-id = "olobHVzX"
+version = "gk2UMrF1"
